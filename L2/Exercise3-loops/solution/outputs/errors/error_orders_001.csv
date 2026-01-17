@@ -1,0 +1,3 @@
+order_id,error_code,message,created_at
+1007,E102,invalid_address,2025-02-03
+1008,E208,payment_timeout,2025-02-04

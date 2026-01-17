@@ -1,0 +1,4 @@
+customer_id,status,segment,created_at
+2001,SUCCESS,retail,2025-02-01
+2002,SUCCESS,enterprise,2025-02-02
+2003,SUCCESS,smb,2025-02-02

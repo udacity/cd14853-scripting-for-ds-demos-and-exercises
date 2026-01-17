@@ -1,0 +1,3 @@
+payment_id,error_code,message,created_at
+5001,P401,card_declined,2025-02-02
+5002,P504,gateway_timeout,2025-02-03
