@@ -1,0 +1,5 @@
+INFO job=orders rows=1200
+ERROR job=payments rows=0
+INFO job=customers rows=300
+ERROR job=orders rows=0
+INFO job=inventory rows=540
