@@ -1,0 +1,9 @@
+# Logs
+logs/
+*.log
+
+# Env
+.env
+
+# OS
+.DS_Store
