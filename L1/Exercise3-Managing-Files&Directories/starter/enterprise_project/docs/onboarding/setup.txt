@@ -1,0 +1,4 @@
+Setup Steps
+1) Copy .env.example to .env (if provided).
+2) Review config/environments/dev.conf for defaults.
+3) Run src/core/main.sh to verify wiring.

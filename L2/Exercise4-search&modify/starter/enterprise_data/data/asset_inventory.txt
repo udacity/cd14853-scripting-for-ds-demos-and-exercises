@@ -1,0 +1,108 @@
+asset_id,owner,region,status
+A-1001,Operations Team,North America,ACTIVE
+A-1002,Data Platform,Europe,ACTIVE
+A-1003,Operations Team,North America,DECOMMISSIONED
+A-1004,Security Team,North America,ACTIVE
+A-1005,Data Platform,Europe,RETIRED
+A-1006,Security Team,Asia Pacific,ACTIVE
+A-1007,Data Platform,Asia Pacific,ACTIVE
+A-1008,Operations Team,North America,ACTIVE
+A-1009,Data Platform,Asia Pacific,ACTIVE
+A-1010,Security Team,Middle East,ACTIVE
+A-1011,Finance,Europe,DECOMMISSIONED
+A-1012,IT Support,South America,RETIRED
+A-1013,Engineering,North America,ACTIVE
+A-1014,Operations Team,Asia Pacific,ACTIVE
+A-1015,Data Platform,Middle East,ACTIVE
+A-1016,Security Team,Europe,DECOMMISSIONED
+A-1017,Finance,South America,RETIRED
+A-1018,IT Support,North America,ACTIVE
+A-1019,Engineering,Asia Pacific,ACTIVE
+A-1020,Operations Team,Middle East,ACTIVE
+A-1021,Data Platform,Europe,DECOMMISSIONED
+A-1022,Security Team,South America,RETIRED
+A-1023,Finance,North America,ACTIVE
+A-1024,IT Support,Asia Pacific,ACTIVE
+A-1025,Engineering,Middle East,ACTIVE
+A-1026,Operations Team,Europe,DECOMMISSIONED
+A-1027,Data Platform,South America,RETIRED
+A-1028,Security Team,North America,ACTIVE
+A-1029,Finance,Asia Pacific,ACTIVE
+A-1030,IT Support,Middle East,ACTIVE
+A-1031,Engineering,Europe,DECOMMISSIONED
+A-1032,Operations Team,South America,RETIRED
+A-1033,Data Platform,North America,ACTIVE
+A-1034,Security Team,Asia Pacific,ACTIVE
+A-1035,Finance,Middle East,ACTIVE
+A-1036,IT Support,Europe,DECOMMISSIONED
+A-1037,Engineering,South America,RETIRED
+A-1038,Operations Team,North America,ACTIVE
+A-1039,Data Platform,Asia Pacific,ACTIVE
+A-1040,Security Team,Middle East,ACTIVE
+A-1041,Finance,Europe,DECOMMISSIONED
+A-1042,IT Support,South America,RETIRED
+A-1043,Engineering,North America,ACTIVE
+A-1044,Operations Team,Asia Pacific,ACTIVE
+A-1045,Data Platform,Middle East,ACTIVE
+A-1046,Security Team,Europe,DECOMMISSIONED
+A-1047,Finance,South America,RETIRED
+A-1048,IT Support,North America,ACTIVE
+A-1049,Engineering,Asia Pacific,ACTIVE
+A-1050,Operations Team,Middle East,ACTIVE
+A-1051,Data Platform,Europe,DECOMMISSIONED
+A-1052,Security Team,South America,RETIRED
+A-1053,Finance,North America,ACTIVE
+A-1054,IT Support,Asia Pacific,ACTIVE
+A-1055,Engineering,Middle East,ACTIVE
+A-1056,Operations Team,Europe,DECOMMISSIONED
+A-1057,Data Platform,South America,RETIRED
+A-1058,Security Team,North America,ACTIVE
+A-1059,Finance,Asia Pacific,ACTIVE
+A-1060,IT Support,Middle East,ACTIVE
+A-1061,Engineering,Europe,DECOMMISSIONED
+A-1062,Operations Team,South America,RETIRED
+A-1063,Data Platform,North America,ACTIVE
+A-1064,Security Team,Asia Pacific,ACTIVE
+A-1065,Finance,Middle East,ACTIVE
+A-1066,IT Support,Europe,DECOMMISSIONED
+A-1067,Engineering,South America,RETIRED
+A-1068,Operations Team,North America,ACTIVE
+A-1069,Data Platform,Asia Pacific,ACTIVE
+A-1070,Security Team,Middle East,ACTIVE
+A-1071,Finance,Europe,DECOMMISSIONED
+A-1072,IT Support,South America,RETIRED
+A-1073,Engineering,North America,ACTIVE
+A-1074,Operations Team,Asia Pacific,ACTIVE
+A-1075,Data Platform,Middle East,ACTIVE
+A-1076,Security Team,Europe,DECOMMISSIONED
+A-1077,Finance,South America,RETIRED
+A-1078,IT Support,North America,ACTIVE
+A-1079,Engineering,Asia Pacific,ACTIVE
+A-1080,Operations Team,Middle East,ACTIVE
+A-1081,Data Platform,Europe,DECOMMISSIONED
+A-1082,Security Team,South America,RETIRED
+A-1083,Finance,North America,ACTIVE
+A-1084,IT Support,Asia Pacific,ACTIVE
+A-1085,Engineering,Middle East,ACTIVE
+A-1086,Operations Team,Europe,DECOMMISSIONED
+A-1087,Data Platform,South America,RETIRED
+A-1088,Security Team,North America,ACTIVE
+A-1089,Finance,Asia Pacific,ACTIVE
+A-1090,IT Support,Middle East,ACTIVE
+A-1091,Engineering,Europe,DECOMMISSIONED
+A-1092,Operations Team,South America,RETIRED
+A-1093,Data Platform,North America,ACTIVE
+A-1094,Security Team,Asia Pacific,ACTIVE
+A-1095,Finance,Middle East,ACTIVE
+A-1096,IT Support,Europe,DECOMMISSIONED
+A-1097,Engineering,South America,RETIRED
+A-1098,Operations Team,North America,ACTIVE
+A-1099,Data Platform,Asia Pacific,ACTIVE
+A-1100,Security Team,Middle East,ACTIVE
+A-1101,Finance,Europe,DECOMMISSIONED
+A-1102,IT Support,South America,RETIRED
+A-1103,Engineering,North America,ACTIVE
+A-1104,Operations Team,Asia Pacific,ACTIVE
+A-1105,Data Platform,Middle East,ACTIVE
+A-1106,Security Team,Europe,DECOMMISSIONED
+A-1107,Finance,South America,RETIRED
