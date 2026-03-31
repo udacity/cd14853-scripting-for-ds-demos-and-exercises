@@ -7,7 +7,7 @@ The script must:
 - Print a short header message
 - Print the total number of lines in data/events.log
 - Print the number of lines containing:
-    - cERROR
+    - ERROR
     - WARN
 You may assume the script is run from the project root.
 
